@@ -17,5 +17,5 @@ Infrastructure as Code (IaC) Libraries: Enhance your infrastructure management w
 Microservices and Containerization: Explore repositories focusing on Docker, Kubernetes, and other container technologies that exemplify the microservices architecture.
 Security and Compliance: Security is paramount. Our projects prioritize secure coding practices, include security automation tools, and offer compliance resources.
 
-###Join Us:
+### Join Us:
 Whether you're a DevOps novice or a seasoned expert, there's a place for you here. Contribute to a project, start a discussion, or simply browse our repositories to learn more about how we're revolutionizing the intersection of development and operations.
