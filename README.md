@@ -1,7 +1,7 @@
 # GitHub Organization: Jupicon Labs
 ## Empowering Collaboration, Driving Innovation
 
-## Welcome to Jupicon Labs, a hub where DevOps culture flourishes, enabling seamless collaboration between development and operations teams. We're committed to fostering an environment where innovation, automation, and efficient workflows are not just goals, but everyday realities.
+Welcome to Jupicon Labs, a hub where DevOps culture flourishes, enabling seamless collaboration between development and operations teams. We're committed to fostering an environment where innovation, automation, and efficient workflows are not just goals, but everyday realities.
 
 ### Our Mission:
 
